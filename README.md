@@ -32,7 +32,8 @@ A passionate software developer in the making, driven by curiosity, creativity, 
 - Jetpack Compose  
 - Clean Architecture in Android  
 - Full-stack development workflows  
-- Custom Joomla components and templates  
+- Custom Joomla components and templates
+- Docker amulators and container use
 
 ---
 
